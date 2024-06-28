@@ -8,5 +8,4 @@ February 01, 2024
 Таблица отрисовывает в качестве заголовка ключ объекта или любой JSX элемент
 Таблица отрисовывает в качестве ячейки JSX элемент, содержащий в каком-либо виде значение объекта.
 
-![Таблица](https://raw.githubusercontent.com/AnZoro1/test-task-description/blob/main/test-image1.png)
-
+![Image alt](https://github.com/AnZoro1/test-task-description/blob/main/test-image1.png)
